@@ -1,0 +1,25 @@
+[21-Jan-2019 21:08:59 Europe/Belgrade] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'sending authentication information', system error: 32 &quot;Broken pipe&quot; in /home2/esbrsnfe/nerds-hosting.com/konfiguracija.php on line 48
+[21-Jan-2019 21:51:50 Europe/Belgrade] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'sending authentication information', system error: 32 &quot;Broken pipe&quot; in /home2/esbrsnfe/nerds-hosting.com/konfiguracija.php on line 48
+[21-Jan-2019 21:51:50 Europe/Belgrade] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'sending authentication information', system error: 32 &quot;Broken pipe&quot; in /home2/esbrsnfe/nerds-hosting.com/konfiguracija.php on line 48
+[21-Jan-2019 21:51:50 Europe/Belgrade] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'sending authentication information', system error: 32 &quot;Broken pipe&quot; in /home2/esbrsnfe/nerds-hosting.com/konfiguracija.php on line 48
+[21-Jan-2019 21:51:55 Europe/Belgrade] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'sending authentication information', system error: 32 &quot;Broken pipe&quot; in /home2/esbrsnfe/nerds-hosting.com/konfiguracija.php on line 48
+[29-Jan-2019 00:30:02 Europe/Belgrade] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/esbrsnfe/nerds-hosting.com/konfiguracija.php:48
+Stack trace:
+#0 /home2/esbrsnfe/nerds-hosting.com/admin/cronovi/cron_servers.php(4): include()
+#1 {main}
+  thrown in /home2/esbrsnfe/nerds-hosting.com/konfiguracija.php on line 48
+[29-Jan-2019 00:30:02 Europe/Belgrade] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/esbrsnfe/nerds-hosting.com/konfiguracija.php:48
+Stack trace:
+#0 /home2/esbrsnfe/nerds-hosting.com/admin/cronovi/cron_lgsl.php(4): include()
+#1 {main}
+  thrown in /home2/esbrsnfe/nerds-hosting.com/konfiguracija.php on line 48
+[29-Jan-2019 00:30:02 Europe/Belgrade] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/esbrsnfe/nerds-hosting.com/konfiguracija.php:48
+Stack trace:
+#0 /home2/esbrsnfe/nerds-hosting.com/admin/cronovi/cron_box.php(4): include()
+#1 {main}
+  thrown in /home2/esbrsnfe/nerds-hosting.com/konfiguracija.php on line 48
+[29-Jan-2019 00:30:02 Europe/Belgrade] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/esbrsnfe/nerds-hosting.com/konfiguracija.php:48
+Stack trace:
+#0 /home2/esbrsnfe/nerds-hosting.com/admin/cronovi/cron_autorestart.php(4): include()
+#1 {main}
+  thrown in /home2/esbrsnfe/nerds-hosting.com/konfiguracija.php on line 48
